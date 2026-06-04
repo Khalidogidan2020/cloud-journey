@@ -17,7 +17,7 @@
 
 ### Project overview
 
-In this project, I will demonstrate how to use the AWS Identity and Access Management (IAM) service to control who is authenticated (signed in) and to grant restricted access to my AWS account. The aim of this project is to learn more about EC2 and IAM.
+In this project, I will demonstrate how to use the AWS Identity and Access Management (IAM) service to control who is authenticated (signed in) and how to grant other users temporary restricted access to my AWS account. The aim of this project is learn more about EC2 and IAM.
 
 ### Tools and concepts
 
