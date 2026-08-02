@@ -189,11 +189,6 @@ I edited index.jsp by typing in what I want to display on my web app and then cl
 
 ---
 
-## Using nano
-
-### Additional improvements
-
-### Terminal vs IDE
 
 ### Verifying my work
 
