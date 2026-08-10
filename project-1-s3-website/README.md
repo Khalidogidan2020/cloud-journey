@@ -4,7 +4,7 @@
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-host-a-website-on-s3)
 
-**Author:** khalidogidan202@gmail.com  
+**Author:** Khalid Ogidan  
 **Email:** khalidogidan202@gmail.com
 
 ---
