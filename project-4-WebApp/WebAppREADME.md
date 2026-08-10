@@ -188,15 +188,3 @@ I edited index.jsp by typing in what I want to display on my web app and then cl
 ![Image](http://nextwork.ai/thankful_silver_mysterious_mulberry/uploads/aws-devops-vscode_7a1de541)
 
 ---
-
-## Using nano
-
-### Additional improvements
-
-### Terminal vs IDE
-
-### Verifying my work
-
----
-
----
