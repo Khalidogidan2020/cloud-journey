@@ -4,7 +4,7 @@
 
 **Project Link:** [View Project](http://nextwork.ai/projects/aws-devops-terraform1)
 
-**Author:** khalidogidan202@gmail.com  
+**Author:** Khalid Ogidan  
 **Email:** khalidogidan202@gmail.com
 
 ---
@@ -101,11 +101,3 @@ I ran 'terraform apply' to apply the changes I have written in my terraform conf
 The sequence of running terraform init, plan, and apply is crucial because If I ran terraform apply before terraform init, I would've run into an error because terraform init needs to set up my project first by downloading the necessary plugins and setting up the state file, which is the file terraform uses to track the current state of my infrastructure.
 
 ![Image](http://nextwork.ai/thankful_silver_mysterious_mulberry/uploads/aws-devops-terraform1_1q2w3e4r)
-
----
-
-## Uploading an S3 Object
-
----
-
----
