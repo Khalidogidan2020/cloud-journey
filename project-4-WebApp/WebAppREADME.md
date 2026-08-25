@@ -4,7 +4,7 @@
 
 **Project Link:** [View Project](http://nextwork.ai/projects/aws-devops-vscode)
 
-**Author:** khalidogidan202@gmail.com  
+**Author:** Khalid Ogidan  
 **Email:** khalidogidan202@gmail.com
 
 ---
@@ -19,9 +19,6 @@
 
 In this project, I will set up a Web App using AWS and VS Code. I am doing this project to learn how to use VS Code to set up a remote SSH connection to an EC2 instance and use Maven and Java to generate a basic web app.
 
-This project is part one of a series of DevOps projects where I'm building a CI/CD pipeline! 
-
-I did this project because I am on Day one of my journey in learning the foundation of Devops.
 
 ### Key tools and concepts
 
